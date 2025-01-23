@@ -10,57 +10,57 @@ I believe the best approach to learning something new is <strong>"Learning by Do
 
 You can access our application using the following demo account:
 
--   **Email Address** : `admin@example.com`
--   **Password** : `admin@example`
+- **Email Address** : `admin@example.com`
+- **Password** : `admin@example`
 
 ## Key Features 📝
 
--   Authentication and Authorization
+- Authentication and Authorization
 
-    -   Users of the app are hotel employees. They can logged in into the application to perform tasks.
-    -   New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts).
-    -   Users able to upload an avatar, and change their name and password
+  - Users of the app are hotel employees. They can logged in into the application to perform tasks.
+  - New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts).
+  - Users able to upload an avatar, and change their name and password
 
--   Cabins
+- Cabins
 
-    -   The app has a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount.
-    -   Users able to update or delete a cabin, and create new cabins (including uploading a photo)
+  - The app has a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount.
+  - Users able to update or delete a cabin, and create new cabins (including uploading a photo)
 
--   Bookings
+- Bookings
 
-    -   The app has a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data.
-    -   The booking status can "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table filterable by this important status.
-    -   Other booking data includes: the number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price.
+  - The app has a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data.
+  - The booking status can "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table filterable by this important status.
+  - Other booking data includes: the number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price.
 
--   Check In/Out
+- Check In/Out
 
-    -   Users able to delete, check-in, or check out a booking as the guest arrives (no editing necessary for now).
-    -   Bookings may not have been paid yet on guest arrival. Therefore, on check-in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app).
-    -   On check-in, the guest should have the ability to add breakfast for the entire stay, if they hadn't already.
+  - Users able to delete, check-in, or check out a booking as the guest arrives (no editing necessary for now).
+  - Bookings may not have been paid yet on guest arrival. Therefore, on check-in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app).
+  - On check-in, the guest should have the ability to add breakfast for the entire stay, if they hadn't already.
 
--   Guests
+- Guests
 
-    -   Guest data contain full name, email, national ID, nationality, and a country flag for easy identification.
+  - Guest data contain full name, email, national ID, nationality, and a country flag for easy identification.
 
--   Dashboard
+- Dashboard
 
-    -   The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
-        -   A list of guests checking in and out on the current day. Users should be able to perform these tasks from here.
-        -   Statistics on recent bookings, sales, check-ins, and occupancy rate.
-        -   A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment).
-        -   A chart showing statistics on stay durations, as this is an important metric for the hotel
+  - The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
+    - A list of guests checking in and out on the current day. Users should be able to perform these tasks from here.
+    - Statistics on recent bookings, sales, check-ins, and occupancy rate.
+    - A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment).
+    - A chart showing statistics on stay durations, as this is an important metric for the hotel
 
--   Settings
+- Settings
 
-    -   Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
+  - Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
 
--   App dark mode.
+- App dark mode.
 
 ## Demonstration 🖥️
 
-#### Login Page :
+<!-- #### Login Page :
 
-![wildoasisLogin](https://github.com/lgope/the-wild-oasis/assets/58518192/32549a90-efa9-47e2-be2d-8a255d073ec3)
+<!-- ![wildoasisLogin](https://github.com/lgope/the-wild-oasis/assets/58518192/32549a90-efa9-47e2-be2d-8a255d073ec3) -->
 
 #### Dashboard Page
 
@@ -70,7 +70,7 @@ You can access our application using the following demo account:
 
 #### Dark Theme Preview
 
-![wildoasisTheme](https://github.com/lgope/the-wild-oasis/assets/58518192/45b21b65-f9df-4dbc-b108-f111faac6cd1)
+![wildoasisTheme](https://github.com/lgope/the-wild-oasis/assets/58518192/45b21b65-f9df-4dbc-b108-f111faac6cd1) -->
 
 #### Bookings Details
 
@@ -92,25 +92,25 @@ You can access our application using the following demo account:
 
 The Wild Oasis Hotel Management Application is built using the following technologies and libraries:
 
--   **React**: JavaScript library for UI development.
+- **React**: JavaScript library for UI development.
 
--   **Supabase**: Cloud database service for real-time and secure data storage.
+- **Supabase**: Cloud database service for real-time and secure data storage.
 
--   **@tanstack/react-query**: Data-fetching and state management library for React.
+- **@tanstack/react-query**: Data-fetching and state management library for React.
 
--   **date-fns**: JavaScript date utility library for parsing, formatting, and manipulating dates.
+- **date-fns**: JavaScript date utility library for parsing, formatting, and manipulating dates.
 
--   **react-router-dom**: Library for routing and navigation in React apps.
+- **react-router-dom**: Library for routing and navigation in React apps.
 
--   **recharts**: Composable charting library for React.
+- **recharts**: Composable charting library for React.
 
--   **styled-components**: CSS-in-JS library for styling React components.
+- **styled-components**: CSS-in-JS library for styling React components.
 
--   **react-hot-toast**: Customizable toast notification library for React.
+- **react-hot-toast**: Customizable toast notification library for React.
 
--   **react-icons**: Collection of customizable icons for React apps.
+- **react-icons**: Collection of customizable icons for React apps.
 
--   **react-hook-form**: Library for form state management and validation in React.
+- **react-hook-form**: Library for form state management and validation in React.
 
 ## 🛠️ Installation Steps:
 
@@ -150,23 +150,10 @@ http://localhost:5173 or Your Local URL
 
 Pull requests are welcome but please open an issue and discuss what you will do before 😊
 
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
--   Enable PWA
--   Improve overall UX/UI and fix bugs
--   Featured Tours
--   Recently Viewed Tours
--   And More! There's always room for improvement!
-
-## License 📄
+<!-- ## License 📄
 
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Deployed Version 🚀
 
-Live demo (Feel free to visit) 👉🏻 : https://thewildoasis-lgope.netlify.app
+Live demo (Feel free to visit) 👉🏻 : https://thewildoasis-lgope.netlify.app -->
