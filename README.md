@@ -58,20 +58,6 @@ You can access our application using the following demo account:
 
 ## Demonstration 🖥️
 
-<!-- #### Login Page :
-
-<!-- ![wildoasisLogin](https://github.com/lgope/the-wild-oasis/assets/58518192/32549a90-efa9-47e2-be2d-8a255d073ec3) -->
-
-#### Dashboard Page
-
-![wildoasis1](https://github.com/lgope/the-wild-oasis/assets/58518192/75d7ea1f-bb3f-4527-9e04-9ceab994abed)
-
-![wildoasis1 1](https://github.com/lgope/the-wild-oasis/assets/58518192/58dc1b1a-6bd9-4a7a-a428-897e4d418385)
-
-#### Dark Theme Preview
-
-![wildoasisTheme](https://github.com/lgope/the-wild-oasis/assets/58518192/45b21b65-f9df-4dbc-b108-f111faac6cd1) -->
-
 #### Bookings Details
 
 ![wildoasis2](https://github.com/lgope/the-wild-oasis/assets/58518192/4dad0d42-94c8-42ae-bab7-ee7862ac531f)
@@ -149,11 +135,3 @@ http://localhost:5173 or Your Local URL
 ## Contributing 💡
 
 Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-<!-- ## License 📄
-
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Deployed Version 🚀
-
-Live demo (Feel free to visit) 👉🏻 : https://thewildoasis-lgope.netlify.app -->
