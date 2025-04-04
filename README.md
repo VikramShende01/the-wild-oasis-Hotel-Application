@@ -58,24 +58,31 @@ You can access our application using the following demo account:
 
 ## Demonstration 🖥️
 
+#### Login Page :-
+![wildoasis1](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/1.JPG)
 
-![wildoasis1](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/446e9d7633d28a3d14aac73f5ac5e9aeaaac36e0/1.JPG)
+#### Dashboard Page :-
+![wildoasis2](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/2.JPG)
+
+#### Dark Theme Preview :-
+![wildoasis3](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/3.JPG)
 
 #### Bookings Details
 
-![wildoasis2](https://github.com/lgope/the-wild-oasis/assets/58518192/4dad0d42-94c8-42ae-bab7-ee7862ac531f)
+![wildoasis4](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/4.JPG)
 
 #### Cabins Details
 
-![wildoasis3](https://github.com/lgope/the-wild-oasis/assets/58518192/e0acd446-90f6-4e61-af42-44a65f96cba2)
+![wildoasis5](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/5.JPG
+)
 
 #### Users Profile Update Page
 
-![wildoasis4](https://github.com/lgope/the-wild-oasis/assets/58518192/d52db1f4-447b-4173-8ffd-5bc4b53d37de)
+![wildoasis6](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/6.JPG)
 
 #### Application Settings Page
 
-![wildoasis5](https://github.com/lgope/the-wild-oasis/assets/58518192/2276ca93-d511-4c3b-8ea9-319837b8e4dd)
+![wildoasis7](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/18f85a84f764ee6158079118c5814019b601c8a8/7.JPG)
 
 ## 💻 Technology Used
 
@@ -132,8 +139,11 @@ http://localhost:5173 or Your Local URL
 1. Javascript, Typescript
 2. ReactJs, Redux, react-query (Front-end)
 3. Styled Component (Styling)
-4. NodeJs, ExpressJs (Back-end)
-5. Supabase (Database)
+4. Supabase (Database)
+
+## Deployed Version 🚀 
+
+Live demo (Feel free to visit) 👉🏻 : https://the-wild-oasis-vikrams.netlify.app/
 
 ## Contributing 💡
 
