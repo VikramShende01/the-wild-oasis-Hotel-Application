@@ -58,6 +58,9 @@ You can access our application using the following demo account:
 
 ## Demonstration 🖥️
 
+
+![wildoasis1](https://github.com/VikramShende01/the-wild-oasis-Hotel-Application/blob/446e9d7633d28a3d14aac73f5ac5e9aeaaac36e0/1.JPG)
+
 #### Bookings Details
 
 ![wildoasis2](https://github.com/lgope/the-wild-oasis/assets/58518192/4dad0d42-94c8-42ae-bab7-ee7862ac531f)
