@@ -10,8 +10,8 @@ I believe the best approach to learning something new is <strong>"Learning by Do
 
 You can access our application using the following demo account:
 
-- **Email Address** : `admin@example.com`
-- **Password** : `admin@example`
+- **Email Address** : `vikram@example.com`
+- **Password** : `123456`
 
 ## Key Features 📝
 
